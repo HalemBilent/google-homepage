@@ -1,0 +1,28 @@
+.logo {
+    display:block;
+    padding-top: 150px;
+    padding-left: 510px;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 20px 10px;
+    font-size: 10pt;
+    padding: 10px;
+    text-align: right;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.center{
+    padding-left: 150px;
+    margin-left: 485px;
+}
